@@ -1,18 +1,18 @@
-# About C and C++
+# 🙋 C and C++
 
 I started learning C and C++ because projects from 42 Seoul required me to learn these languages. C and C++ are powerful programming languages widely used for system software, application development, high-performance computing, and embedded systems. They offer low-level memory manipulation capabilities and are essential for understanding how software interacts with hardware.
 
-## Purpose of this Dev Note
+## 🎯 Purpose of this Dev Note
 
 The purpose of this Dev Note is to serve as a practical reference guide for myself and others who may need a quick refresher on specific concepts in C and C++. It consolidates essential topics, code snippets, and explanations that can be easily accessed when needed. By organizing the information into structured markdown files, it becomes a handy cheat sheet that aids in efficient learning and development.
 
-## Overview of C and C++
+## 🌐 Overview of C and C++
 
 C is a procedural programming language developed in the early 1970s. It provides low-level access to memory and offers a minimalistic set of keywords, making it suitable for system programming, embedded systems, and performance-critical applications.
 
 C++, developed as an extension of C, introduces object-oriented programming features, generic programming through templates, and additional standard libraries. It retains compatibility with C while offering higher-level abstractions, making it suitable for complex software development, game development, and applications requiring both performance and abstraction.
 
-## Key Differences between C and C++
+## 🔍 Key Differences between C and C++
 
 | Feature              | C                              | C++                                    |
 |----------------------|--------------------------------|----------------------------------------|
@@ -22,9 +22,9 @@ C++, developed as an extension of C, introduces object-oriented programming feat
 | Features             | Functions, Structures          | Classes, Inheritance, Templates, etc.  |
 | Compatibility        | -                              | Backward-compatible with most of C     |
 
-## List of Contents
+## 📑 List of Contents
 
-### Basics (Common to Both C and C++)
+### 🛠️ Basics (Common to Both C and C++)
 
 - [ ] [Hello World in C and C++](./hello-world.md): Main function, comments, and printing output in both languages.
 - [ ] [Data Types](./data-types.md): Primitive data types in both languages.
@@ -39,7 +39,7 @@ C++, developed as an extension of C, introduces object-oriented programming feat
 - [ ] [Strings](./strings.md): Handling strings.
 - [ ] [Pointers](./pointers.md): Understanding pointers and their usage.
 
-### Intermediate Topics
+### 🚀 Intermediate Topics
 
 #### C Specific Features
 
@@ -67,7 +67,7 @@ C++, developed as an extension of C, introduces object-oriented programming feat
 - [ ] [Nullptr Keyword](./cpp/nullptr.md): Using `nullptr` instead of `NULL` (C++11).
 - [ ] [Range-Based For Loops](./cpp/range-based-for.md): Simplifying loops with range-based `for` (C++11).
 
-### Object-Oriented Programming in C++
+### 🏛️ Object-Oriented Programming in C++
 
 - [ ] [Classes and Objects](./cpp/classes-objects.md): Defining classes and creating objects.
 - [ ] [Access Specifiers](./cpp/access-specifiers.md): Understanding `public`, `protected`, and `private`.
@@ -83,7 +83,7 @@ C++, developed as an extension of C, introduces object-oriented programming feat
 - [ ] [The `this` Pointer](./cpp/this-pointer.md): Understanding the `this` pointer.
 - [ ] [Templates in C++](./cpp/templates.md): Using templates for generic programming.
 
-### Advanced Topics
+### 🧠 Advanced Topics
 
 #### C Advanced Topics
 
@@ -117,7 +117,7 @@ C++, developed as an extension of C, introduces object-oriented programming feat
 - [ ] [Thread Support Library](./cpp/thread.md): Multithreading with `<thread>`, `<mutex>`, `<future>`, etc.
 - [ ] [Modern C++ Practices](./cpp/modern-cpp-practices.md): Using modern C++ features effectively.
 
-### Best Practices and Coding Standards
+### 📝 Best Practices and Coding Standards
 
 - [ ] [Code Formatting and Style Guidelines](./code-formatting.md): Writing clean and readable code.
 - [ ] [The Rule of Three, Five, and Zero](./cpp/rule-of-three-five-zero.md): Managing resources in classes.
@@ -131,7 +131,7 @@ C++, developed as an extension of C, introduces object-oriented programming feat
 - [ ] [Writing Clean and Maintainable Code](./clean-code.md): Best practices for code quality.
 - [ ] [Multi-file Projects](./multi-file-projects.md): Organizing code into multiple files.
 
-### Appendices
+### 📎 Appendices
 
 - [ ] [C Standard Library Overview](./c/standard-library.md): Overview of C standard library functions.
   - [ ] [Standard Input/Output `stdio.h`](./c/stdio.md)
