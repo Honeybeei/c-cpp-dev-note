@@ -26,7 +26,7 @@ C++, developed as an extension of C, introduces object-oriented programming feat
 
 ### 🛠️ Basics (Common to Both C and C++)
 
-- [ ] [Hello World in C and C++](./hello-world.md): Main function, comments, and printing output in both languages.
+- [x] [Hello World in C and C++](./hello-world.md): Main function, comments, and printing output in both languages.
 - [ ] [Data Types](./data-types.md): Primitive data types in both languages.
 - [ ] [Modifiers and Type Qualifiers](./modifiers-type-qualifiers.md): Using `signed`, `unsigned`, `short`, `long`, `const`, and `volatile`.
 - [ ] [Variables and Constants](./variables-constants.md): Declaring and using variables and constants.
