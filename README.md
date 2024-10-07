@@ -1,5 +1,21 @@
 # 🙋 C and C++
 
+- [🙋 C and C++](#-c-and-c)
+  - [🎯 Purpose of this Dev Note](#-purpose-of-this-dev-note)
+  - [🌐 Overview of C and C++](#-overview-of-c-and-c)
+  - [🔍 Key Differences between C and C++](#-key-differences-between-c-and-c)
+  - [📑 List of Contents](#-list-of-contents)
+    - [🛠️ Basics (Common to Both C and C++)](#️-basics-common-to-both-c-and-c)
+    - [🚀 Intermediate Topics](#-intermediate-topics)
+      - [C Specific Features](#c-specific-features)
+      - [C++ Specific Features](#c-specific-features-1)
+    - [🏛️ Object-Oriented Programming in C++](#️-object-oriented-programming-in-c)
+    - [🧠 Advanced Topics](#-advanced-topics)
+      - [C Advanced Topics](#c-advanced-topics)
+      - [C++ Advanced Topics](#c-advanced-topics-1)
+    - [📝 Best Practices and Coding Standards](#-best-practices-and-coding-standards)
+    - [📎 Appendices](#-appendices)
+
 I started learning C and C++ because projects from 42 Seoul required me to learn these languages. C and C++ are powerful programming languages widely used for system software, application development, high-performance computing, and embedded systems. They offer low-level memory manipulation capabilities and are essential for understanding how software interacts with hardware.
 
 ## 🎯 Purpose of this Dev Note
